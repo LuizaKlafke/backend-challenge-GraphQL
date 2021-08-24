@@ -18,6 +18,20 @@ Para rodar a base de dados na sua máquina, preencher as informações comentada
 
 # Consultar suitablePlanets pela API GraphQL
 
+Antes de realizar a consulta, é necessário configurar o banco de dados. Para isso, na pasta '.\voltbras-challenge\database' criar um arquivo de nome '.env', contendo os seus dados (senha) da seguinte forma:
+
+```bash
+module.exports = {
+    connection: {
+      database: "exoplanets",
+      user: "root",
+      password: "sua-senha",
+    }
+}
+```
+
+Não alterar o campo 'database'.
+
 Para consultar quais exoplanetas é possível instalar uma estação de carregamento, basta rodar no seu terminal na pasta '.\voltbras-challenge'. o seguinte código:
 
 ```bash
