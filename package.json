@@ -1,0 +1,23 @@
+{
+  "name": "voltbras-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.1.1",
+    "apollo-server": "^2.4.8",
+    "datasource-sql": "^1.5.0",
+    "graphql": "^14.2.1",
+    "memcached": "^2.2.2",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
