@@ -6,9 +6,9 @@ Esse repositório tem como função retornar dados (nome, massa, se há ou não 
 
 Você precisará dos seguintes programas:
 
-[Node](https://nodejs.org/en/)
-[NPM](https://www.npmjs.com/)
-[MySQL](https://www.mysql.com/)
+- [Node](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+- [MySQL](https://www.mysql.com/)
 
 ## Utilização do programa
 
