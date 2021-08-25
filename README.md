@@ -32,6 +32,12 @@ module.exports = {
 
 Não alterar o campo 'database'.
 
+Para instalar as dependências, deve ser rodado no seu terminal na pasta '.\voltbras-challenge'. o seguinte código:
+
+```bash
+npm i
+```
+
 Para consultar quais exoplanetas é possível instalar uma estação de carregamento, basta rodar no seu terminal na pasta '.\voltbras-challenge'. o seguinte código:
 
 ```bash
